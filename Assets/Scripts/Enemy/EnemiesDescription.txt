@@ -1,0 +1,5 @@
+EnemyBrutus: Follows the target in a straight line, bumpes into walls
+
+EnemyStalkerForever: Follows the target indefinitely avoiding walls
+
+EnemyStalkerGuardian: Follows the target avoiding walls, returns to original path if exceeded certain distance
